@@ -36,3 +36,21 @@ Step 2 : Crafted SQL queries to address the specified business questions given b
 ![Screenshot 2024-04-30 222540](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/fe6e7d26-ee3b-4eed-a346-6ace381cb1c6)
 ![Screenshot 2024-04-30 222636](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/190343e8-65a3-4954-8d1f-6b5bdfc15d3a)
 
+#### .............................................................................................................................................................................................................
+                                             ## Created View:final_fact_events
+![Screenshot 2024-04-30 234456](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/3f6fce61-9698-4724-a61c-a50002861aa7)
+#### ...........................................................................................................................................................................................................
+
+
+#### Q-4)Produce a report that calculates the Incremental Sold Quantity (ISU%) for each category during the Diwali campaign. Additionally, provide rankings for the categories based on their ISU%. The report will include three key fields: category, isu%, and rank order. This information will assistin assessing the category-wise success and impact of the Diwali campaign on incremental sales.
+#### Note: ISU% (Incremental Sold Quantity Percentage) is calculated as the percentage increase/decrease in quantity sold (after promo) compared toquantity sold (before promo)
+
+![Screenshot 2024-04-30 233808](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/bc2157ec-3c1b-4328-8c3e-87e604585576)
+![Screenshot 2024-04-30 233827](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/66816da7-e146-4f1f-99e3-59338ffa5fe4)
+
+
+#### Q-5)Create a report featuring the Top 5 products, ranked by Incremental Revenue Percentage (IR%), across all campaigns. The report will provide essential information including product name, category, and ir%. This analysis helps identify the most successful products in terms of incremental revenue across ourcampaigns, assisting in product optimization.
+
+![Screenshot 2024-04-30 231935](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/34378c6f-13d3-409e-af54-b98892605769)
+![Screenshot 2024-04-30 231951](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/7295e3d6-72ff-4fe2-92c2-1ed7e2e6a714)
+
