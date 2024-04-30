@@ -32,4 +32,7 @@ Step 2 : Crafted SQL queries to address the specified business questions given b
 ![Screenshot 2024-04-30 221652](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/fe7b3876-a7ed-46fc-875f-0cb8d8630b2d)
 ![Screenshot 2024-04-30 221940](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/5f01b6e9-363b-41d7-84da-0733df9786cf)
 
+#### Solution:without CTE
+![Screenshot 2024-04-30 222540](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/fe6e7d26-ee3b-4eed-a346-6ace381cb1c6)
+![Screenshot 2024-04-30 222636](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/190343e8-65a3-4954-8d1f-6b5bdfc15d3a)
 
