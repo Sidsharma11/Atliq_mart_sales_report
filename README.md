@@ -22,3 +22,8 @@ Step 2 : Crafted SQL queries to address the specified business questions given b
 
    ![Screenshot 2024-04-30 181441](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/afe9c9bc-7136-45c6-b61c-ef93fa3701e8)
 
+#### Q-2)Generate a report that provides an overview of the number of stores in each city.The results will be sorted in descending order of store counts, allowing us toidentify the cities with the highest store presence.The report includes two essential fields: city and store count, which will assist in optimizing our retail operations.
+
+![Screenshot 2024-04-30 191311](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/0c29d0d6-abce-4e1b-ad38-26494fa44c50)
+
+
