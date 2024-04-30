@@ -13,6 +13,11 @@ The dashboard is designed to provide an overview of the various discounts offere
 
 ### Steps followed:
 
-Step 1 : Import data from csv files into MySQL Workbench.  
+Step 1 : Imported the 'retail_events_db' database into MySQL Workbench. 
 
-Step 2 : 
+Step 2 : Crafted SQL queries to address the specified business questions given below:
+
+Q-1) Provide a list of products with a base price greater than 500 and that are featured in promo type of 'BOGOF' (Buy One Get One Free). This information will help us identify high-value products that are currently being heavily discounted, which can be useful for evaluating our pricing and promotion strategies.
+
+   ![Screenshot 2024-04-30 181441](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/afe9c9bc-7136-45c6-b61c-ef93fa3701e8)
+
