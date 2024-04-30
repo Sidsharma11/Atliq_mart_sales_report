@@ -26,4 +26,10 @@ Step 2 : Crafted SQL queries to address the specified business questions given b
 
 ![Screenshot 2024-04-30 191311](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/0c29d0d6-abce-4e1b-ad38-26494fa44c50)
 
+#### Q-3) Generate a report that displays each campaign along with the total revenue generated before and after the campaign? The reportincludes three key fields: campaign_name, total_revenue(before_promotion), total_revenue(after_promotion). This report should help in evaluating the financialimpact of our promotional campaigns. (Display the values in millions)
+
+#### Solution:Using CTE
+![Screenshot 2024-04-30 221652](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/fe7b3876-a7ed-46fc-875f-0cb8d8630b2d)
+![Screenshot 2024-04-30 221940](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/5f01b6e9-363b-41d7-84da-0733df9786cf)
+
 
