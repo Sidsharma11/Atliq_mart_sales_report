@@ -103,3 +103,13 @@ Measure:
 Format: 
 
 ![Screenshot 2024-05-01 093159](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/706d89df-3237-4c38-9dbe-5dfd3079fa27)
+
+6)Incremental Revenue(IR)
+
+Measure:
+
+![Screenshot 2024-05-01 093737](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/aa76ee42-407d-404f-b948-123dc0f20b3f)
+
+Format:
+
+![Screenshot 2024-05-01 093749](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/0a74569c-e2f7-4c7c-81ff-2029fdf48177)
