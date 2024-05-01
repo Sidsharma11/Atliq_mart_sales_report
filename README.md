@@ -127,4 +127,20 @@ Format:
 
  ![Screenshot 2024-05-01 095619](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/6f4b44dd-41a8-4494-8031-600a6067ff9d)
 
+ .............................................................................................................................................................................................
+  ............................................................................................................................................................................................   
+       Dashboard: Store Performance Analysis
+
+![Screenshot 2024-05-01 100035](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/04e14b53-107d-4aec-8b82-ee9b516dae3f)
+
+
+      Dashboard: Promotion Tye Analysis
+
+![Screenshot 2024-05-01 100056](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/68665050-9130-46c0-920f-07ce9b00f7e7)
+
+
+     Dashboard: Product and Category wise analysis
+
+![Screenshot 2024-05-01 100109](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/269e3abc-2830-4cf3-af26-142aaf7a23d2)
+
 
