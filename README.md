@@ -75,7 +75,7 @@ Step 5:  Built measures shown below to analyse the performance in terms of
 
  ![Screenshot 2024-05-01 085516](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/ede03e35-5fe7-4836-aee9-8c7d22027f33)
 
-3)Revenue before promo promotional offers were applied.(in Indian currency units such as Lakhs,crores,thousands)
+3)Revenue before promotional offers were applied.(in Indian currency units such as Lakhs,crores,thousands)
 
 Measure:
 ![Screenshot 2024-05-01 085817](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/9ab391eb-a11a-4c0a-816d-8f8f3e52870b)
@@ -83,3 +83,13 @@ Measure:
 Format:
 
 ![Screenshot 2024-05-01 085848](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/2def6229-744b-4a07-8f31-646b11ae0483)
+
+4)Revenue after promotional offers were applied.(In Indian currency units such as Lakhs,crores,thousands)
+
+Measure: 
+
+![Screenshot 2024-05-01 092409](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/b5d7f346-bd4d-4953-832c-c39b2abf76b0)
+
+Format: 
+
+![Screenshot 2024-05-01 092224](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/1c593f0d-4660-49b3-9ea6-a2f6c122ad59)
