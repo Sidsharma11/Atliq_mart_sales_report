@@ -66,3 +66,20 @@ Step 3 : Now, the database retail_events_db was loaded into Power Bi. The table 
 Step 4 : Relationship between the tables is established inside the data model.       
 ![Screenshot 2024-05-01 083258](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/7eab1d9d-7206-4cb0-8456-f58db375a545)
 
+Step 5:  Built measures shown below to analyse the performance in terms of 
+1) Quantity sold before promo
+   
+![Screenshot 2024-05-01 084515](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/bb6a0b2c-e7a3-40aa-bcb8-f2fee04464ab)
+
+2)Quanity sold after promo promotional offers were applied
+
+ ![Screenshot 2024-05-01 085516](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/ede03e35-5fe7-4836-aee9-8c7d22027f33)
+
+3)Revenue before promo promotional offers were applied.(in Indian currency units such as Lakhs,crores,thousands)
+
+Measure:
+![Screenshot 2024-05-01 085817](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/9ab391eb-a11a-4c0a-816d-8f8f3e52870b)
+
+Format:
+
+![Screenshot 2024-05-01 085848](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/2def6229-744b-4a07-8f31-646b11ae0483)
