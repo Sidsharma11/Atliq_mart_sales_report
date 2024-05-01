@@ -116,6 +116,15 @@ Format:
 
 7)% Increase in revenue(% IR)
 
-Measure : 
 
 ![Screenshot 2024-05-01 094255](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/7780df9f-5ba1-4e86-8673-8bbf4b9bd8f2)
+
+8) Store_count
+
+![Screenshot 2024-05-01 095333](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/cb6273a7-cccc-43f6-b3a2-0b9519b3bd90)
+
+9) Average Incremental Reveneu per Store
+
+ ![Screenshot 2024-05-01 095619](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/6f4b44dd-41a8-4494-8031-600a6067ff9d)
+
+
