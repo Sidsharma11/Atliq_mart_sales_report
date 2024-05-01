@@ -113,3 +113,9 @@ Measure:
 Format:
 
 ![Screenshot 2024-05-01 093749](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/0a74569c-e2f7-4c7c-81ff-2029fdf48177)
+
+7)% Increase in revenue(% IR)
+
+Measure : 
+
+![Screenshot 2024-05-01 094255](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/7780df9f-5ba1-4e86-8673-8bbf4b9bd8f2)
