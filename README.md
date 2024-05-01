@@ -63,7 +63,7 @@ Step 3 : Now, the database retail_events_db was loaded into Power Bi. The table 
        3)dim_stores
        4)final_fact_events(which was created in 'View')
 
-Step 4 : Relationship between the tables is established inside the data model.       
+Step 4 : Relationship was established between the fact table and the dimensions tables,inside the data model.       
 ![Screenshot 2024-05-01 083258](https://github.com/Sidsharma11/Atliq_mart_sales_report/assets/167175484/7eab1d9d-7206-4cb0-8456-f58db375a545)
 
 Step 5:  Built measures shown below to analyse the performance in terms of 
